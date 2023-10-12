@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MFahad150
-- 👀 I’m interested in Cloud Computing Technologies and DevOps Culture
-- 🌱 I’m currently learning Cloud Computing and DevOps
+- 👀 I’m interested in Cloud Computing and DevOps
+- 🌱 I’m currently learning Cloud technologies and DevOps tools
 - 📫 Reach me on LinkedIn: linkedin.com/in/mfahad710
